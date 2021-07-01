@@ -1,6 +1,13 @@
 # design
 UI design.
 
+
+![image](https://user-images.githubusercontent.com/7204994/124091241-84c87a00-da4d-11eb-93bc-99867ae941c0.png)
+
+![image](https://user-images.githubusercontent.com/7204994/124091276-8c881e80-da4d-11eb-8972-65ed2ed17020.png)
+
+![image](https://user-images.githubusercontent.com/7204994/124091333-a1fd4880-da4d-11eb-928d-7ea24d4ec865.png)
+
 ![link](https://i.imgur.com/LHUUHQX.png)
 
 ![link](https://i.imgur.com/MHrvyis.png)
@@ -22,9 +29,3 @@ UI design.
 ![link](https://i.imgur.com/LWctp4T.png)
 
 ![link](https://i.imgur.com/3okTb0z.png)
-
-![image](https://user-images.githubusercontent.com/7204994/124091241-84c87a00-da4d-11eb-93bc-99867ae941c0.png)
-
-![image](https://user-images.githubusercontent.com/7204994/124091276-8c881e80-da4d-11eb-8972-65ed2ed17020.png)
-
-![image](https://user-images.githubusercontent.com/7204994/124091333-a1fd4880-da4d-11eb-928d-7ea24d4ec865.png)
