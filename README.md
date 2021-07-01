@@ -8,6 +8,9 @@ UI design.
 
 ![image](https://user-images.githubusercontent.com/7204994/124091333-a1fd4880-da4d-11eb-928d-7ea24d4ec865.png)
 
+![image](https://user-images.githubusercontent.com/7204994/124091923-3bc4f580-da4e-11eb-8b09-5634cb7b2f4e.png)
+
+
 ![link](https://i.imgur.com/LHUUHQX.png)
 
 ![link](https://i.imgur.com/MHrvyis.png)
